@@ -1,9 +1,11 @@
 <h1>Hi, I'm Kingston! <br/><a >Programmer</a>, <a >Cybersecurity Student</a>, <a 'href="https://www.youtube.com/c/joshmadakor"'>High School Student</a></h1>
 
-<h2>👨‍💻 JavaScript Projects:</h2>
+<h2>👨‍💻 8th JavaScript Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Mood App with functions (App Idea)</b>
+  - [Mental Health App](https://studio.code.org/projects/applab/L733YkwWwRftz-QOTiaePhEGk2OrEI5MDltXm_QiRBM)
+- <b>Flash Card (App Idea)</b>
+  - [Help you study app](https://studio.code.org/projects/applab/cm0jpIB_PMkye6V4cDkEVaFSSA0J6CCfRrW7WOio0Os)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
