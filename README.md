@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kingston! <br/><a >Programmer</a>, <a >Cybersecurity Student</a>, <a 'href="https://www.youtube.com/c/joshmadakor"'>High School Student</a></h1>
 
-<h2>👨‍💻 8th JavaScript Projects:</h2>
+<h2>👨‍💻 JavaScript Projects:</h2>
 
 - <b>Mood App with functions (App Idea)</b>
   - [Mental Health App](https://studio.code.org/projects/applab/L733YkwWwRftz-QOTiaePhEGk2OrEI5MDltXm_QiRBM)
