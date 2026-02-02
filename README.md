@@ -10,7 +10,7 @@
 <h2>👨‍💻 ChatBot:</h2>
 
 - <b>ChatBot made with friend (App Idea)</b>
-  - [ChatBot]([https://mistai.org/)
+  - [ChatBot](https://mistai.org/)
  
 <h2>👨‍💻 Presentations</h2>
 
