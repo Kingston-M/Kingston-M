@@ -6,9 +6,19 @@
   - [Mental Health App](https://studio.code.org/projects/applab/L733YkwWwRftz-QOTiaePhEGk2OrEI5MDltXm_QiRBM)
 - <b>Flash Card (App Idea)</b>
   - [Help you study app](https://studio.code.org/projects/applab/cm0jpIB_PMkye6V4cDkEVaFSSA0J6CCfRrW7WOio0Os)
+  - 
+<h2>👨‍💻 ChatBot:</h2>
 
+- <b>ChatBot made with friend (App Idea)</b>
+  - [ChatBot]([https://mistai.org/)
+ 
+<h2>👨‍💻 Presentations</h2>
 
+- <b>Technical Showcase winning first place in States(Skills USA)</b>
+  - [Presentation](https://gcsnccom-my.sharepoint.com/:p:/r/personal/12494047_stu_gcsnc_com/Documents/Data%20Science%20Consulting%20by%20Slidesgo.pptx?d=wb2010a614a504a07abb5eb5258dc2e1e&csf=1&web=1&e=mhj4QE)
 
+- <b>1st in presentation at Gen Cyber camp hosted by Department of Defense(GenCyber)</b>
+  - [Presentation](https://gcsnccom-my.sharepoint.com/:p:/r/personal/12494047_stu_gcsnc_com/Documents/Presentation%202.pptx?d=w2773227deb99439db9601ffc3d18cb66&csf=1&web=1&e=xLSZmo)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
