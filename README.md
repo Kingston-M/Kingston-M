@@ -9,7 +9,7 @@
   - 
 <h2>👨‍💻 ChatBot:</h2>
 
-- <b>ChatBot made with friend (App Idea)</b>
+- <b>assisted creation of ChatBot with my friend (Mostly UI Design, Debugging, and researching on how to improve)</b>
   - [ChatBot](https://mistai.org/)
  
 <h2>👨‍💻 Presentations</h2>
